@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2">
+	<Catalog uuid="de2498aa-8186-41f0-b479-23ef7ea5e21d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.NomenclatureCharacteristics" category="Object">
+				<xr:TypeId>9ffd4736-1ffa-40bd-b99a-940c0879857b</xr:TypeId>
+				<xr:ValueId>4d979656-111f-4cab-b54f-540a51f4ce4e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.NomenclatureCharacteristics" category="Ref">
+				<xr:TypeId>5d8e824f-04c9-4ec4-916c-14b37d6b9072</xr:TypeId>
+				<xr:ValueId>7f37440b-10b8-4a4f-bc8a-7aaf6850c249</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.NomenclatureCharacteristics" category="Selection">
+				<xr:TypeId>d7842e77-5d44-40c5-8914-dc7f5ae3f831</xr:TypeId>
+				<xr:ValueId>0d72f223-cb5a-4dec-98b3-4574c5983198</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.NomenclatureCharacteristics" category="List">
+				<xr:TypeId>47a7bf0e-040c-4b96-82b6-5088409b4f8d</xr:TypeId>
+				<xr:ValueId>b3831998-6e19-4f81-83fd-9fbf95ad1302</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.NomenclatureCharacteristics" category="Manager">
+				<xr:TypeId>187e9090-5c15-4d58-b0b5-fcf6447957b3</xr:TypeId>
+				<xr:ValueId>01839315-6f73-4d71-8f68-0c88de2ad3b5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>NomenclatureCharacteristics</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<TabularSection uuid="7f6012ee-feb0-41da-adad-62804cd84bfb">
+				<InternalInfo>
+					<xr:GeneratedType name="CatalogTabularSection.NomenclatureCharacteristics.AdditionalAttributes" category="TabularSection">
+						<xr:TypeId>b835b609-3d6d-478a-a769-3dab67d1dd00</xr:TypeId>
+						<xr:ValueId>38e71d1b-9d8f-4f8e-ab97-4d920c642599</xr:ValueId>
+					</xr:GeneratedType>
+					<xr:GeneratedType name="CatalogTabularSectionRow.NomenclatureCharacteristics.AdditionalAttributes" category="TabularSectionRow">
+						<xr:TypeId>75d839c5-29ed-471a-aaeb-f1b649d3cf16</xr:TypeId>
+						<xr:ValueId>2d7e5c12-f84a-4fc1-9ef4-da998250f3dd</xr:ValueId>
+					</xr:GeneratedType>
+				</InternalInfo>
+				<Properties>
+					<Name>AdditionalAttributes</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+				<ChildObjects>
+					<Attribute uuid="7f4da125-f1e0-4894-9a6d-07d1ef77012c">
+						<Properties>
+							<Name>Property</Name>
+							<ObjectBelonging>Adopted</ObjectBelonging>
+							<Type>
+								<v8:Type>cfg:ChartOfCharacteristicTypesRef.AdditionalAttributesAndInfo</v8:Type>
+							</Type>
+						</Properties>
+					</Attribute>
+					<Attribute uuid="a5183202-f759-4576-976c-167ef71b7d29">
+						<Properties>
+							<Name>Value</Name>
+							<ObjectBelonging>Adopted</ObjectBelonging>
+							<Type>
+								<v8:TypeSet>cfg:Characteristic.AdditionalAttributesAndInfo</v8:TypeSet>
+							</Type>
+						</Properties>
+					</Attribute>
+				</ChildObjects>
+			</TabularSection>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

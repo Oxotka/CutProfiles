@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2">
+	<Catalog uuid="c0aa8ff3-5a66-4e9f-962b-c53144800685">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.BaseUnits" category="Object">
+				<xr:TypeId>bd24c6d9-e94e-406d-8d39-9a5927aa44fc</xr:TypeId>
+				<xr:ValueId>9cf339f8-8fd5-42a0-975a-e55284b07d7a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.BaseUnits" category="Ref">
+				<xr:TypeId>d9f286ee-0fda-49ac-8617-fb0ebca8a689</xr:TypeId>
+				<xr:ValueId>30e4a9ad-e50f-4aa8-8510-9bb933d830ac</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.BaseUnits" category="Selection">
+				<xr:TypeId>1d780162-e42c-4768-b801-e2dd4d273644</xr:TypeId>
+				<xr:ValueId>34e356a8-8fc5-43b6-b2e7-e118392de108</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.BaseUnits" category="List">
+				<xr:TypeId>13e56ff3-d0f8-43b2-b27b-971a53534453</xr:TypeId>
+				<xr:ValueId>7315e73e-c3d8-40ce-94b2-871f9541ac1f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.BaseUnits" category="Manager">
+				<xr:TypeId>d6dfeca7-ae24-4b85-ba50-42ede3ba1aea</xr:TypeId>
+				<xr:ValueId>45e46d77-2f03-4d82-bca9-b355ce7433c8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>BaseUnits</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

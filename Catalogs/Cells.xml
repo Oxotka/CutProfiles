@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2">
+	<Catalog uuid="d00c4322-bc2e-46c5-8ff2-47a8957e9537">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Cells" category="Object">
+				<xr:TypeId>ebdab485-8a91-43bb-ad8b-8ec29fd12c26</xr:TypeId>
+				<xr:ValueId>843cc5ed-7286-4bf4-904e-98d7137bd4a5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Cells" category="Ref">
+				<xr:TypeId>14ff8429-0817-4ac8-9071-b0fb65f904fa</xr:TypeId>
+				<xr:ValueId>84a7eaea-7ec9-4d96-b813-2f1c221ee055</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Cells" category="Selection">
+				<xr:TypeId>a8d030b1-3077-463e-adfe-7c0cb96fe93e</xr:TypeId>
+				<xr:ValueId>c03b2723-ef79-4022-8986-ed5dba0ea67e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Cells" category="List">
+				<xr:TypeId>f5abf885-3b6d-490c-aadb-3dccb8cbee40</xr:TypeId>
+				<xr:ValueId>32b0914e-4d05-44bc-a075-98b8b8d18c71</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Cells" category="Manager">
+				<xr:TypeId>737908b9-9862-4b08-8388-a67620a5782f</xr:TypeId>
+				<xr:ValueId>466bb795-04fb-407d-a4d8-6a5baaf91563</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Cells</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

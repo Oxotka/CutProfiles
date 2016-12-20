@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2">
+	<Document uuid="15169476-75f5-48ad-94fc-01e8c39583d4">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ProductionOrder" category="Object">
+				<xr:TypeId>681affef-acb6-4a01-a363-384bfa2b6c05</xr:TypeId>
+				<xr:ValueId>3138df9e-d7bf-4e23-869e-b966a6667fe1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ProductionOrder" category="Ref">
+				<xr:TypeId>fa759685-8def-486c-ac51-7d3980e08802</xr:TypeId>
+				<xr:ValueId>0dc9de72-6908-4622-ac14-815afac5c9e1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ProductionOrder" category="Selection">
+				<xr:TypeId>ecc99cb0-947a-4e98-b1be-3c5c1bf41630</xr:TypeId>
+				<xr:ValueId>a18f0257-6339-4c72-9598-06b43e7bc59e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ProductionOrder" category="List">
+				<xr:TypeId>945386d9-b9a7-43f5-80e1-0504f4833472</xr:TypeId>
+				<xr:ValueId>02b3861e-6df7-4e80-9ad6-c3328fa049d5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ProductionOrder" category="Manager">
+				<xr:TypeId>3860fb50-6830-41e0-859c-07a8d4f8ff8b</xr:TypeId>
+				<xr:ValueId>c472cd54-1464-478e-9e8e-b4bc38e8245f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ProductionOrder</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

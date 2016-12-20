@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2">
+	<Enum uuid="68e33a64-d3cd-4c97-b543-9a077d83a470">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.TransactionTypesProduction" category="Ref">
+				<xr:TypeId>ae3ef31b-1352-44ec-8bef-1cd0a5c85fe3</xr:TypeId>
+				<xr:ValueId>30020917-ad4b-4851-851e-87cc337ee661</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.TransactionTypesProduction" category="Manager">
+				<xr:TypeId>95209bd3-8674-4f32-963c-554e298491dc</xr:TypeId>
+				<xr:ValueId>0180d2e9-6ec1-43c1-bb02-ea8d0a7cd4f1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.TransactionTypesProduction" category="List">
+				<xr:TypeId>b1eba2c7-4f46-4a9c-ad02-5761c311a99c</xr:TypeId>
+				<xr:ValueId>5e5a4c8f-714a-4aea-ae1c-ef8485b669eb</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>TransactionTypesProduction</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="32d319ef-4634-4168-afad-c9bdd290a681">
+				<Properties>
+					<Name>Disassembly</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="04f88a61-0111-4d1b-8289-e647e97d8eb6">
+				<Properties>
+					<Name>Assembly</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

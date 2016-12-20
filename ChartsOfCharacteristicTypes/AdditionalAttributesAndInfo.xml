@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2">
+	<ChartOfCharacteristicTypes uuid="cff013d4-0bf7-432a-b1d1-8c9a8847554e">
+		<InternalInfo>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesObject.AdditionalAttributesAndInfo" category="Object">
+				<xr:TypeId>e90ec333-a570-4031-8735-cf329cd6ff22</xr:TypeId>
+				<xr:ValueId>aa61e1e2-aee4-4259-8cbd-894d9737b10e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesRef.AdditionalAttributesAndInfo" category="Ref">
+				<xr:TypeId>078a7e62-ff9c-401c-a845-e013e2c60e45</xr:TypeId>
+				<xr:ValueId>f52493f8-bf9c-4cb7-8a11-997a74a07cfa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesSelection.AdditionalAttributesAndInfo" category="Selection">
+				<xr:TypeId>2e97f1e9-0c04-4ca7-8967-abbf6a1890ca</xr:TypeId>
+				<xr:ValueId>d35c9880-7ab2-4fd6-92c8-53712ef4b16f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesList.AdditionalAttributesAndInfo" category="List">
+				<xr:TypeId>7f9110a2-4b77-4c3d-a412-86868d2f230a</xr:TypeId>
+				<xr:ValueId>2b5ed12c-78cd-4bab-bacc-c504bfa3af7d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="Characteristic.AdditionalAttributesAndInfo" category="Characteristic">
+				<xr:TypeId>26e20610-9347-47b7-a7a3-5a10a1105158</xr:TypeId>
+				<xr:ValueId>2523deaf-b72e-4d02-ab44-204367059c4b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesManager.AdditionalAttributesAndInfo" category="Manager">
+				<xr:TypeId>4fba9cc8-01e9-4cf0-9b47-162082e09b97</xr:TypeId>
+				<xr:ValueId>40458646-51cd-4c2a-a537-6312b108d34a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>AdditionalAttributesAndInfo</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</ChartOfCharacteristicTypes>
+</MetaDataObject>
