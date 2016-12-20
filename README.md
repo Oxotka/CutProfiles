@@ -4,6 +4,7 @@ This is extension for BMS.
 
 Extension has new button "Cut profiles" in document "Production".
 This command add new row in table "Materials" if:
+
 1. In table Inventory 1 row.
 2. In table Materials 1 row.
 
