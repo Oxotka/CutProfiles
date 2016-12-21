@@ -48,8 +48,8 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PersonalComputer</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<Vendor/>
-			<Version>1.0</Version>
+			<Vendor>1C-Romania</Vendor>
+			<Version>1.1</Version>
 			<DefaultLanguage>Language.English</DefaultLanguage>
 			<InterfaceCompatibilityMode>Version8_2</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_6</CompatibilityMode>
