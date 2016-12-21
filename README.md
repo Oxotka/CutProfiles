@@ -1,4 +1,12 @@
-# Распил профилей.
+# Cut profiles.
 
-Добавил кнопку "Cut profile". При нажатии на кнопку таблица "Материалы" дополняется остатком профиля, а также изменяются Cost percentage.
-Пока никаких проверок нет. Работает только с одной строкой из первой закладки.
+This is extension for BMS.
+
+Extension has new button "Cut profiles" in document "Production".
+This command add new row in table "Materials" if:
+
+1. In table Inventory 1 row.
+2. In table Materials 1 row.
+
+New row in "Materials" has remaining characteristic (Characteristic in Inventory - Characteristis in Material).
+Also in table "Materials" calculate "Cost percentage" for both rows.
